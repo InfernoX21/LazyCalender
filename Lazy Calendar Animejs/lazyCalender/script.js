@@ -1,0 +1,1 @@
+// This file contains the client-side JavaScript code that adds interactivity to the web application.
