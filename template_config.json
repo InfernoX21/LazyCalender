@@ -1,0 +1,15 @@
+{
+  "layout": {
+    "header": true,
+    "footer": true,
+    "sidebar": false
+  },
+  "theme": {
+    "color": "light",
+    "font": "Arial, sans-serif"
+  },
+  "customizable": {
+    "enableCustomCSS": true,
+    "customCSSPath": "styles.css"
+  }
+}
